@@ -1,3 +1,9 @@
+/*
+NAME: NOOR SYAHIRAH BINTI MOHD SABRI
+MATRIC: 207542
+PROJECT: ASSIGNMENT 1
+*/
+
 package assignment1;
 
 import java.sql.*;
